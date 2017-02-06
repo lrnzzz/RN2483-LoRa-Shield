@@ -6,7 +6,7 @@ PIN Layout:
  * Uart TX -- 7
  * Uart RX -- 8
 
-# Roadmap for Verion 1.0
+# Roadmap for Version 1.0
 
 * use the same pins as "The Things UNO"
 * check the antenna route
