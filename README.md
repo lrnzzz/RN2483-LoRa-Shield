@@ -5,3 +5,5 @@ PIN Layout:
  * Reset -- 4
  * Uart TX -- 7
  * Uart RX -- 8
+
+Note: 5v levels.
